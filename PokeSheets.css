@@ -1,10 +1,7 @@
 body {
     background-color: black;
 }
-h1 {
-    text-align: center;
-    color: white;
-}
+
 #dexCase {
     background-color: white;
     display: flex;
